@@ -1,0 +1,63 @@
+/* Custom Font Faces */
+
+/* Playfair Display - Serif Font for Titles */
+@font-face {
+  font-family: 'Playfair Display';
+  src: url('./assets/fonts/playfair-display-regular.woff2') format('woff2'),
+       url('./assets/fonts/playfair-display-regular.woff') format('woff'),
+       url('./assets/fonts/playfair-display-regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Playfair Display';
+  src: url('./assets/fonts/playfair-display-bold.woff2') format('woff2'),
+       url('./assets/fonts/playfair-display-bold.woff') format('woff'),
+       url('./assets/fonts/playfair-display-bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Inter - Sans Serif Font for Body Text */
+@font-face {
+  font-family: 'Inter';
+  src: url('./assets/fonts/inter-regular.woff2') format('woff2'),
+       url('./assets/fonts/inter-regular.woff') format('woff'),
+       url('./assets/fonts/inter-regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('./assets/fonts/inter-medium.woff2') format('woff2'),
+       url('./assets/fonts/inter-medium.woff') format('woff'),
+       url('./assets/fonts/inter-medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('./assets/fonts/inter-semibold.woff2') format('woff2'),
+       url('./assets/fonts/inter-semibold.woff') format('woff'),
+       url('./assets/fonts/inter-semibold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('./assets/fonts/inter-bold.woff2') format('woff2'),
+       url('./assets/fonts/inter-bold.woff') format('woff'),
+       url('./assets/fonts/inter-bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
