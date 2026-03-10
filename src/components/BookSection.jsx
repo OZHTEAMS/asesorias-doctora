@@ -42,7 +42,7 @@ const BookSection = () => {
                 Publicación Destacada
               </h2>
               <h3 className="text-2xl font-semibold text-primary mb-4">
-                "Título del Libro"
+                "Del aula al liderazgo: Coaching como estrategia innovadora para la excelencia universitaria"
               </h3>
               <p className="text-lg text-slate-700 leading-relaxed mb-6">
                 Una obra fundamental que explora los desafíos y oportunidades en la investigación académica moderna.
