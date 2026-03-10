@@ -42,7 +42,7 @@ const Header = () => {
             <div className="flex items-center flex-shrink-0">
               <a href="/">
                 <img
-                  src="/assets/logo.png"
+                  src="/logo.png"
                   alt="Logo Asesorías Educativas Ya"
                   className="max-h-[40px] sm:max-h-[50px] w-auto object-contain"
                   style={{ maxWidth: '160px' }}
