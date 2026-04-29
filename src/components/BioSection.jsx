@@ -1,4 +1,4 @@
-import draYali from '../assets/dra-yali.jpeg';
+import draYali from '../assets/dra-yali.jpg';
 import { motion } from 'framer-motion';
 import { Award, BookOpen, Users, Globe } from 'lucide-react';
 
